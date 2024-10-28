@@ -5,6 +5,10 @@ serverless computing.
 
 ## Organization Structure
 
+* [coco-serverless/coco-serverless](https://github.com/coco-serverless/coco-serverless) - main entrypoint to deploy/build different components.
+* [coco-serveless/experiments](https://github.com/coco-serverless/experiments) - scripts for the different experiments we run.
+* [coco-serverless/apps](https://github.com/coco-serverless/apps) - workloads used for the experiments (TODO).
+
 ## Citing Our Work
 
 If you use SC2, please consider checking our [vision paper](
