@@ -1,7 +1,19 @@
-# SC2: Serverless Confidential Containers
+<div align="center">
+  <h1><code>sc2</code></h1>
+
+  <p>
+    <strong>Serverless Confidential Containers</strong>
+  </p>
+
+  <p>
+    <a href="https://github.com/coco-serverless/coco-serverless/actions/workflows/tests.yml"><img src="https://github.com/coco-serverless/coco-serverless/actions/workflows/tests.yml/badge.svg" alt="Integration Tests" /></a>
+  </p>
+  <hr>
+</div>
 
 SC2 is a research project with the goal of making confidential VMs usable for
-serverless computing.
+serverless computing. It is developed at the [LSDS](https://lsds.doc.ic.ac.uk/)
+group of the Imperial College London.
 
 ## Organization Structure
 
