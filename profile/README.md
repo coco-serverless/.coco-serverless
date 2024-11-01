@@ -7,7 +7,7 @@ serverless computing.
 
 * [sc2-sys/deploy](https://github.com/sc2-sys/deploy) - main entrypoint to deploy SC2 and build patched components.
 * [sc2-sys/experiments](https://github.com/sc2-sys/experiments) - experiments and plots for SC2.
-* [sc2-sys/apps](https://github.com/sc2-sys/applications) - applications used as workloads for SC2's experiments.
+* [sc2-sys/applications](https://github.com/sc2-sys/applications) - applications used as workloads for SC2's experiments.
 
 ## Citing Our Work
 
