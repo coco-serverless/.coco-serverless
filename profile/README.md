@@ -4,10 +4,6 @@
   <p>
     <strong>Serverless Confidential Containers</strong>
   </p>
-
-  <p>
-    <a href="https://github.com/coco-serverless/coco-serverless/actions/workflows/tests.yml"><img src="https://github.com/coco-serverless/coco-serverless/actions/workflows/tests.yml/badge.svg" alt="Integration Tests" /></a>
-  </p>
   <hr>
 </div>
 
