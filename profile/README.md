@@ -1,10 +1,6 @@
 <div align="center">
   <h1><code>sc2</code></h1>
-
-  <p>
-    <strong>Serverless Confidential Containers</strong>
-  </p>
-  <hr>
+  <h1>Serverless Confidential Containers</h1>
 </div>
 
 SC2 is a research project with the goal of making confidential VMs usable for
